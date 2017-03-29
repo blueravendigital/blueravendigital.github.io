@@ -1,5 +1,6 @@
 body {
 	font: 16px Times New Roman, ;
+	color: #FFFFFF;
 	background: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
 }
 
@@ -28,6 +29,7 @@ body {
 	font-weight: bold;
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
+	color: #FFFFFF;
 }
 
 #content-summarycontent {
@@ -36,6 +38,7 @@ body {
 
 	font-style: italic;
 	font-size: 20px;
+	color: #FFFFFF;
 }
 
 #content-professionalheader {
@@ -48,9 +51,11 @@ body {
 
 h3 {
 	border-bottom: 1px solid #999;
+	color: #FFFFFF;
 }
 
 h4{
 	margin-top: 0px;
 	margin-bottom: 0px;
+	color: #FFFFFF;
 }
