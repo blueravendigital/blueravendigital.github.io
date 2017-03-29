@@ -2,6 +2,7 @@ body {
 	font: 16px Times New Roman, ;
 	color: #FFFFFF;
 	background: url("Screen Shot 2017-03-29 at 3.04.19 PM.png");
+	background-size: cover;
 }
 
 #pic {
