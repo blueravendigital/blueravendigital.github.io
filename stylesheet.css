@@ -6,6 +6,7 @@ body {
 
 #pic {
 	float: right;
+	width: 40px;
 }
 
 #button {
