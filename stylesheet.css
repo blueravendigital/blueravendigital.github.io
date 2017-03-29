@@ -1,6 +1,6 @@
 body {
 	font: 16px Times New Roman, ;
-	background: url(noise.png);
+	background: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
 }
 
 #pic {
