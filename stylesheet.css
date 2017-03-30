@@ -1,5 +1,5 @@
 body {
-	font: 16px Times New Roman, ;
+	font: 16px Josefin Sans, ;
 	color: #FFFFFF;
 	background: url("Screen Shot 2017-03-29 at 3.04.19 PM.png");
 	background-size: cover;
@@ -7,7 +7,8 @@ body {
 
 #pic {
 	float: right;
-	width: 100px;
+	width: 150px;
+	box-shadow: 10px 10px 5px #888888
 }
 
 #button {
@@ -30,7 +31,7 @@ body {
 	font-size: 42px;
 	font-weight: bold;
 	letter-spacing: -2px;
-	border-bottom: 3px dashed #850;
+	border-bottom: 3px solid #4169E1;
 	color: #FFFFFF;
 }
 
