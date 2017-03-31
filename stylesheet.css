@@ -56,6 +56,10 @@ section .row img {
   height: 100px  ;
 }
 
+body p {
+  font-size: 60px; 
+  
+}
 .col-md-6 {
   margin: 0 0 30px;
 }
