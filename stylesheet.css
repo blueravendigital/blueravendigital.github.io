@@ -28,7 +28,7 @@ header p {
   margin: 0;
 }
 
-.jumbotron {
+.container1 {
   display: flex;
   align-items: center;
   background-image: url('IMG_4420.JPG');
@@ -49,6 +49,17 @@ header p {
   margin: 0 0 0px;
   color: #fff;
 }
+
+.container2 {
+  display: flex;
+  align-items: center;
+  background-image: url('IMG_4802.JPG');
+  background-size: cover;
+  color: #FFFFFF;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
 
 section .row img {
   margin: 0 0 30px;
