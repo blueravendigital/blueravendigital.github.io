@@ -32,7 +32,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('IMG_4420.JPG');
+  background-image: url('Screen Shot 2017-03-31 at 7.16.05 PM.png');
   background-size: cover;
   color: #FFFFFF;
   height: 300px;
@@ -73,6 +73,13 @@ section .row img {
   color: #191970;
   text-shadow: none;
   background-color: #ffffff;
+}
+
+.col-sm-12 li {
+   font-size: 30px 
+   content: 10px
+
+  
 }
 
 .btn.btn-primary:hover {
