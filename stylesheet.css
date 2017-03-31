@@ -56,7 +56,7 @@ section .row img {
   height: 100px  ;
 }
 
-body p {
+.container p {
   font-size: 60px; 
   
 }
