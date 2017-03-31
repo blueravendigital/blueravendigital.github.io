@@ -1,73 +1,4 @@
 body {
-	font: 16px Josefin Sans, ;
-	color: #FFFFFF;
-	background: url("Screen Shot 2017-03-29 at 3.04.19 PM.png");
-	background-size: cover;
-}
-
-.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('IMG_4420.JPG');
-  background-size: cover;
-  color: #ffffff;
-  height: 300px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
-}
-
-
-#pic {
-	float: right;
-	width: 150px;
-	box-shadow: 5px 5px 5px #FFFFFF
-}
-
-#container {
-	width: 800px;
-	margin: 40px auto 60px;
-}
-
-#content-contact {
-	margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
-	font-size: 42px;
-	font-weight: bold;
-	letter-spacing: -2px;
-	border-bottom: 3px solid #4169E1;
-	color: #FFFFFF;
-}
-
-#content-summarycontent {
-	margin: 0 0 16px 0;
-	padding: 0 0 32px 0;
-
-	font-style: italic;
-	font-size: 20px;
-	color: #FFFFFF;
-}
-
-#content-professionalheader {
-	font-size: 28px;
-}
-
-.date {
-	float: right;
-}
-
-h3 {
-	border-bottom: 1px solid #999;
-	color: #FFFFFF;
-}
-
-h4{
-	margin-top: 0px;
-	margin-bottom: 0px;
-	color: #FFFFFF;
-}
-
-
-
-body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
 }
@@ -147,4 +78,21 @@ section .row img {
   margin: 0 0 30px;
 }
 
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
 
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
