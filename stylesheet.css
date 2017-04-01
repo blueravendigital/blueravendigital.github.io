@@ -29,7 +29,8 @@ header p {
 }
 
 .jumbotron {
-  display: flex;
+  display: block;
+  margin: center;
   align-items: left;
   background-image: url('Headshot.jpg');
   background-size: cover;
