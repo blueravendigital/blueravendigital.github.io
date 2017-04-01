@@ -114,7 +114,9 @@ footer .col-sm-8 {
 }
 
 footer ul {
-  list-style: none;
+  list-style: horizontal;
+  display: flex;
+  justify-content: flex-end;
   font-size: 5px;
 }
 
