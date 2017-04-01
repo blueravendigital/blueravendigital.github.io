@@ -1,7 +1,6 @@
 body {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 300;
-  font-size: 20px;
 }
 
 header {
@@ -31,7 +30,7 @@ header p {
 
 .jumbotron {
   display: flex;
-  align-items: center;
+  align-items: left;
   background-image: url('Headshot.jpg');
   background-size: cover;
   color: #FFFFFF;
