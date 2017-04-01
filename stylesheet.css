@@ -60,8 +60,15 @@ section .row img {
 
 .container p {
   font-size: 60px; 
+    
+}
+
+.container h2 {
+  font-size: 80px
+  color: #0000FF  
   
 }
+
 .col-md-6 {
   margin: 0 0 30px;
 }
