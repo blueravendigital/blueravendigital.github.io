@@ -7,6 +7,17 @@ header {
   padding: 20px 0;
 }
 
+.container p {
+  font-size: 50px; 
+    
+}
+
+.container h2 {
+  font-size: 80px;
+  color: #0000FF;
+  
+}
+
 header .row,
 footer .row {
   display: flex;
@@ -38,6 +49,7 @@ header p {
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
+
 .jumbotron h2 {
   font-size: 60px;
   font-weight: 700;
@@ -58,17 +70,6 @@ section .row img {
     ;
 }
 
-.container p {
-  font-size: 60px; 
-    
-}
-
-.container h2 {
-  font-size: 80px;
-  color: #0000FF;
-  
-}
-
 .col-md-6 {
   margin: 0 0 30px;
 }
@@ -83,9 +84,7 @@ section .row img {
 
 .col-sm-12 li {
    font-size: 30px; 
-   content: 10px;
-
-  
+   content: 5px; 
 }
 
 .btn.btn-primary:hover {
@@ -100,7 +99,7 @@ section .row img {
 }
 
 footer {
-  font-size: 12px;
+  font-size: 5px;
   padding: 20px 0;
 }
 
@@ -111,7 +110,7 @@ footer .col-sm-8 {
 
 footer ul {
   list-style: none;
-  font-size: 20px;
+  font-size: 5px;
 }
 
 footer li img {
