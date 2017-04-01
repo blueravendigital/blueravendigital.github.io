@@ -64,8 +64,8 @@ section .row img {
 }
 
 .container h2 {
-  font-size: 80px
-  color: #0000FF  
+  font-size: 80px;
+  color: #0000FF;
   
 }
 
@@ -82,8 +82,8 @@ section .row img {
 }
 
 .col-sm-12 li {
-   font-size: 30px 
-   content: 10px
+   font-size: 30px; 
+   content: 10px;
 
   
 }
@@ -111,7 +111,7 @@ footer .col-sm-8 {
 
 footer ul {
   list-style: none;
-  font-size: 20px
+  font-size: 20px;
 }
 
 footer li img {
